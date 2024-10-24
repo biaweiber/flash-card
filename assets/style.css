@@ -12,7 +12,8 @@ body{
 }
 
 #container{
-    display: flex; /*transforma em elemento flexível*/
+    display: flex;
+    flex-wrap: wrap; /*transforma em elemento flexível*/
 }
 
 .cartao{
