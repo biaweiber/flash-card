@@ -16,7 +16,7 @@ body{
     flex-wrap: wrap; /*transforma em elemento flexível*/
     justify-content:space-between
     padding: 4rem;
-    gap: 3rem
+    gap: 2rem
 }
 
 .cartao{
